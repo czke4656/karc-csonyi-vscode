@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(8, 102, 0);
+    text-align: center;
+  }
+p {
+    font-size: 15 pt;
+    color: rgb(240, 240, 240);
+  }
+h2{
+    font-size: 40pt;
+    color: rgb(131, 0, 0);
+}
+h3 {
+    font-size: 30 pt;
+    color: rgb(136, 0, 0);
+}
+#mikulas {
+    background-color: rgb(131, 0, 0);
+    color: white;
+    font-size: 18pt;
+}
+#karacsonyfa {   background-color: rgb(136, 0, 0);
+    color: white;
+    font-size: 18pt;
+}
+#ho {
+    background-color: rgb(134, 0, 0);
+    color: white;
+    font-size: 18pt;
+}
+a {
+    background-color: rgb(50, 153, 50);
+    border: 3px solid rgb(139, 0, 0);
+    text-decoration: none;
+    font-variant: small-caps;
+    color: white;
+    margin: 5px;
+}
+.class {
+    color: red;
+}
